@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.frm_wrap{
+	margin-left:10px;
+}
+
+.valid-msg{
+	display:block;
+	color:red;	
+	font-size:10px;
+}
+
+input{
+	display:block;
+	width:400px;
+	border: none;
+	outline: none;
+}
+
+th{
+	padding:5px;
+	background-color: red;
+	color:white;
+	text-align: center;
+}
+
+input[type=submit]{
+	width: 100%;
+}

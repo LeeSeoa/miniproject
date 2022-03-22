@@ -1,0 +1,18 @@
+@charset "UTF-8";
+html,body{
+	height: 100%;
+}
+
+#toy_header{
+	margin:0px !important;
+	height: 10%;
+}
+
+.content{
+	min-height: 80%;
+}
+
+#toy_footer{
+	margin:0px !important;
+	height: 10%;
+}

@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.frm_wrap{
+	margin-left:10px;
+}
+	
+.tit{
+	display:block; 
+	width:150px;
+}
+
+.valid-msg{color:red;	font-size:0.5vw;}
